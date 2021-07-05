@@ -5,3 +5,7 @@ set {
 article {
   display: inline-grid;
 }
+
+section {
+  display: flex;
+}
