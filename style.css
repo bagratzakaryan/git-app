@@ -1,3 +1,7 @@
 set {
   display: inline;
 }
+
+article {
+  display: inline-grid;
+}
