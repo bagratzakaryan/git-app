@@ -1,0 +1,22 @@
+{
+  "name": "git-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagratzakaryan/git-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagratzakaryan/git-course/issues"
+  },
+  "homepage": "https://github.com/bagratzakaryan/git-course#readme",
+  "dependencies": {
+    "webpack": "^5.45.1"
+  }
+}
