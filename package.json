@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bagratzakaryan/git-course/issues"
   },
-  "homepage": "https://github.com/bagratzakaryan/git-course#readme"
+  "homepage": "https://github.com/bagratzakaryan/git-course#readme",
+  "dependencies": {
+    "webpack": "^5.45.1"
+  }
 }
